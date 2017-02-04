@@ -1,0 +1,86 @@
+.Wrapper {
+    border: 2px solid red;
+    margin: 0 auto;
+}
+.header {
+    border: 2px solid red;
+    overflow: hidden;
+    height: 100px;
+   }
+ .logo {
+    border: 2px solid blue;
+    width: 20%;
+    float: left;
+    height: 100px;
+}
+.menu {
+    border: 2px solid black;
+    width: 50%;
+    float: left;
+    margin-left: 80px;
+    height: 100px;
+}
+.search {
+    border: 2px solid green;
+    width: 20%;
+    float: right;
+    height: 100px;
+ }
+ .slider{
+ 	border: 2px solid red;
+ 	height: 300px;
+ 	overflow: hidden;
+ }   
+ .slider_content{
+ 	border: 2px solid green;
+ 	float: left;
+ 	height: 300px;
+ 	width: 55%;
+ }
+.slider_image{
+	border: 2px solid blue;
+	float: right;
+	height: 300px;
+	width: 40%;
+}
+.con{
+	border: 2px solid black;
+	height: 200px;
+	display: inline-block;
+	width: 21%;
+	padding: 23px;
+}
+.ser{
+	border: solid blue;
+	height: 200px;
+	display: inline-block;
+	width: 32%;
+	padding: 4px;
+}
+.footer{
+	border: solid red;
+}
+
+.footer_contact {
+    border: 2px solid red;
+    display: inline-block;
+    height: 100px;
+    width: 40%;
+    float: left;
+}
+.footer_map {
+    border: 2px solid red;
+    display: inline-block;
+    height: 100px;
+    width: 55%;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
